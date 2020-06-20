@@ -1,0 +1,13 @@
+{
+	"currencies": [
+		{
+			"id": "etest",
+			"namespace": "arus",
+			"name": "Litherium",
+            "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
+			"rate": "1",
+			"ratelabel": "CHF",
+			"divisibility": "2"
+		}
+	]
+}
