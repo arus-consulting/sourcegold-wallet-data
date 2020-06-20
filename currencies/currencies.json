@@ -3,7 +3,7 @@
 		{
 			"id": "etest",
 			"namespace": "arus",
-			"name": "Litherium",
+			"name": "SG",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
 			"rate": "1",
 			"ratelabel": "CHF",
