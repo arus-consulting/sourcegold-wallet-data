@@ -13,7 +13,7 @@
         {
             "id": "sgm",
             "namespace": "arus",
-            "name": "SGLD",
+            "name": "Test SGLD",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
             "rate": "1",
             "ratelabel": "Gramm of gold",
