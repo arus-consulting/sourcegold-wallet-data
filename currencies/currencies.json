@@ -7,7 +7,18 @@
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
 			"rate": "1",
 			"ratelabel": "Gramm of gold",
-			"divisibility": "2"
-		}
+			"divisibility": "2",
+            "showAmount": "true"
+		},
+        {
+            "id": "sgm",
+            "namespace": "arus",
+            "name": "SGLD",
+            "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
+            "rate": "1",
+            "ratelabel": "Gramm of gold",
+            "divisibility": "2",
+            "showAmount": "true"
+        }
 	]
 }
