@@ -6,7 +6,7 @@
 			"name": "SGLD",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
 			"rate": "1",
-			"ratelabel": "Gramm of gold",
+			"ratelabel": "USD",
 			"divisibility": "2",
             "showAmount": "true"
 		},
@@ -16,7 +16,7 @@
             "name": "Test SGLD",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
             "rate": "1",
-            "ratelabel": "Gramm of gold",
+            "ratelabel": "USD",
             "divisibility": "2",
             "showAmount": "false"
         }
