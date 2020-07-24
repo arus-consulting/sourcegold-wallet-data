@@ -11,8 +11,8 @@
             "showAmount": "false"
         },
         {
-            "id": "capital-one-gold",
-            "namespace": "source-gold-1",
+            "id": "source-gold-1",
+            "namespace": "capital-one-gold",
             "name": "SGLD",
             "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
             "rate": "1",
