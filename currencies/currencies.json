@@ -1,15 +1,5 @@
 {
 	"currencies": [
-		{
-			"id": "etest",
-			"namespace": "arus",
-			"name": "SGLD",
-            "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
-			"rate": "1",
-			"ratelabel": "USD",
-			"divisibility": "2",
-            "showAmount": "true"
-		},
         {
             "id": "sgm",
             "namespace": "arus",
@@ -19,6 +9,16 @@
             "ratelabel": "USD",
             "divisibility": "2",
             "showAmount": "false"
+        },
+        {
+            "id": "capital-one-gold",
+            "namespace": "source-gold-1",
+            "name": "SGLD",
+            "img": "https://arus-ag.github.io/source-gold-resources/currencies/sgc.png",
+            "rate": "1",
+            "ratelabel": "USD",
+            "divisibility": "2",
+            "showAmount": "true"
         }
 	]
 }
